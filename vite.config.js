@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/monster-club/', // <--- මේකෙන් තමයි GitHub Pages වලට path එක හදලා දෙන්නේ
 })
